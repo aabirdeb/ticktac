@@ -1,4 +1,4 @@
-# Use the official Node.js 16 image
+# Use the official Node.js 16 images
 FROM node:16
 
 # Set the working directory in the container
